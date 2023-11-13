@@ -1,5 +1,6 @@
 const { Client } = require('discord.js-selfbot-v13')
 const client = new Client()
+
 const { RichPresence } = require('discord.js-selfbot-rpc')
 const sendMessage = require('./telegram')
 
@@ -40,4 +41,4 @@ client.on('messageCreate', async (message) => {
   }
 })
 
-client.login('Mzk2MDQzNDY3ODAzMDY2MzY4.GTmkzk.MpdRcybCnAmfRice8HCRZgtfFLIkHS8NWbenAw')
+client.login('Mzk2MDQzNDY3ODAzMDY2MzY4.GpNeqO.s0lzdD0B4xIXv6HsPf6R_mu_NWgQGwjG-d_2WU')
