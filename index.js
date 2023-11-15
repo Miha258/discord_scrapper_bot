@@ -40,4 +40,4 @@ client.on('messageCreate', async (message) => {
     }
   }
 })
-client.login("Mzk2MDQzNDY3ODAzMDY2MzY4.GJlOV_.zU5RZlqt-2WJV9AcV1NU2kQ1BPXZqU3qErfb9o")
+client.login("Mzk2MDQzNDY3ODAzMDY2MzY4.GZ4isZ.c5WcMLYIx3SYcyGy2jX9Vc8c-EBOWfdhBEDZiA")
