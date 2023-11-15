@@ -1,4 +1,5 @@
 const { Client } = require('discord.js-selfbot-v13')
+const axios = require('axios')
 const client = new Client()
 
 const { RichPresence } = require('discord.js-selfbot-rpc')
@@ -40,5 +41,4 @@ client.on('messageCreate', async (message) => {
     }
   }
 })
-
-client.login('Mzk2MDQzNDY3ODAzMDY2MzY4.GpNeqO.s0lzdD0B4xIXv6HsPf6R_mu_NWgQGwjG-d_2WU')
+client.login("Mzk2MDQzNDY3ODAzMDY2MzY4.Gl8z0u.n5ipE2yWYXQLqCXEsGY68tpIkCScL7STUTc5Ew")
