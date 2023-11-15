@@ -1,5 +1,4 @@
 const { Client } = require('discord.js-selfbot-v13')
-const axios = require('axios')
 const client = new Client()
 
 const { RichPresence } = require('discord.js-selfbot-rpc')
